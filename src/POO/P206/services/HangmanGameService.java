@@ -32,12 +32,6 @@ public class HangmanGameService {
                 hangmanGame.setNumLettersFound(hangmanGame.getNumLettersFound() + 1);
             }
         }
-        /*for(char letterWord: hangmanGame.getWordToSearch()) {
-            if(letter.equals(String.valueOf(letterWord))) {
-                isLetterFound = true;
-                hangmanGame.setNumLettersFound(hangmanGame.getNumLettersFound() + 1);
-            }
-        }*/
 
         return isLetterFound;
     }
