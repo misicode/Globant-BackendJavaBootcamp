@@ -4,7 +4,6 @@ import java.util.regex.Pattern;
 
 public class PasswordValidator {
     /**
-     *
      * This method validates that the password entered is at least 6 characters long,
      * has at least one lowercase letter, one uppercase letter, and one special character.
      * @param password  password to validate

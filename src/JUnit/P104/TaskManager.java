@@ -4,7 +4,6 @@ import java.util.ArrayList;
 
 public class TaskManager {
     /**
-     *
      * This method adds tasks to the list.
      * @param tasks     list of tasks
      * @param task      task to add
@@ -18,7 +17,6 @@ public class TaskManager {
     }
 
     /**
-     *
      * This method removes tasks to the list.
      * @param tasks     list of tasks
      * @param task      task to remove
@@ -29,7 +27,6 @@ public class TaskManager {
     }
 
     /**
-     *
      * This method shows the tasks in the list.
      * @param tasks     list of tasks
      */
