@@ -5,7 +5,7 @@ import java.text.ParseException;
 import java.text.SimpleDateFormat;
 
 public class DateValidator {
-    static final DateFormat DATE_FORMAT = new SimpleDateFormat("dd/mm/yyyy");
+    static final DateFormat DATE_FORMAT = new SimpleDateFormat("dd/MM/yyyy");
 
     /**
      * This method validate that a date has the correct format.

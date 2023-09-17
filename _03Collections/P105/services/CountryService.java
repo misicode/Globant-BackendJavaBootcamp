@@ -59,7 +59,7 @@ public class CountryService {
         System.out.println("\nNo se encontró un país con ese nombre en el conjunto");
     }
 
-    public static Comparator<String> compareCountry = new Comparator<String>() {
+    public static Comparator<String> compareCountry = new Comparator<>() {
         @Override
         public int compare(String country1, String country2) {
             return country1.compareTo(country2);

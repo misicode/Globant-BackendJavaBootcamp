@@ -3,11 +3,8 @@ package _01POO.P109;
 import _01POO.P109.entities.Mathematics;
 import _01POO.P109.services.MathematicsService;
 
-import java.util.Scanner;
-
 public class Main {
     public static void main(String[] args) {
-        Scanner scanner = new Scanner(System.in);
         MathematicsService mathematicsService = new MathematicsService();
         Mathematics mathematics = mathematicsService.createMathematics();
 
