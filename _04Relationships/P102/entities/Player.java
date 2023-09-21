@@ -15,10 +15,6 @@ public class Player {
         return name;
     }
 
-    public boolean isWet() {
-        return isWet;
-    }
-
     public void setWet(boolean wet) {
         isWet = wet;
     }

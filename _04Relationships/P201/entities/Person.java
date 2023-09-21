@@ -23,10 +23,6 @@ public class Person {
         this.name = name;
     }
 
-    public Dog getDog() {
-        return dog;
-    }
-
     public void setDog(Dog dog) {
         this.dog = dog;
     }

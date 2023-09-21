@@ -17,10 +17,6 @@ public class Policy {
     private double amountHail;
     private String typeCoverage;
 
-    public int getPolicyNum() {
-        return policyNum;
-    }
-
     public void setPolicyNum(int policyNum) {
         this.policyNum = policyNum;
     }
