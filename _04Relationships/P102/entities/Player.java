@@ -15,7 +15,7 @@ public class Player {
         return name;
     }
 
-    public boolean getWet() {
+    public boolean isWet() {
         return isWet;
     }
 
