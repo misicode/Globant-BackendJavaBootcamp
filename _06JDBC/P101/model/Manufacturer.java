@@ -1,4 +1,4 @@
-package _06JDBC.model;
+package _06JDBC.P101.model;
 
 public class Manufacturer {
     private int code;

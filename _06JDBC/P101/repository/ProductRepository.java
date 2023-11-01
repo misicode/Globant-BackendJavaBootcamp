@@ -1,6 +1,6 @@
-package _06JDBC.repository;
+package _06JDBC.P101.repository;
 
-import _06JDBC.model.Product;
+import _06JDBC.P101.model.Product;
 
 import java.util.List;
 

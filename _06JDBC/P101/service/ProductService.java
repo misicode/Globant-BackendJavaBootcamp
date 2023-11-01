@@ -1,8 +1,8 @@
-package _06JDBC.service;
+package _06JDBC.P101.service;
 
-import _06JDBC.model.Product;
-import _06JDBC.repository.ProductRepository;
-import _06JDBC.repository.ProductRepositoryImpl;
+import _06JDBC.P101.model.Product;
+import _06JDBC.P101.repository.ProductRepository;
+import _06JDBC.P101.repository.ProductRepositoryImpl;
 
 import java.util.Scanner;
 

@@ -1,4 +1,4 @@
-package _06JDBC.repository;
+package _06JDBC.P101.repository;
 
 import java.util.List;
 

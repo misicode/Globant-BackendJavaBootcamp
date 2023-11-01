@@ -1,7 +1,7 @@
-package _06JDBC;
+package _06JDBC.P101;
 
-import _06JDBC.service.ManufacturerService;
-import _06JDBC.service.ProductService;
+import _06JDBC.P101.service.ManufacturerService;
+import _06JDBC.P101.service.ProductService;
 
 import java.util.Scanner;
 

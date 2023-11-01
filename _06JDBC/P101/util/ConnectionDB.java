@@ -1,4 +1,4 @@
-package _06JDBC.util;
+package _06JDBC.P101.util;
 
 import java.sql.Connection;
 import java.sql.DriverManager;
