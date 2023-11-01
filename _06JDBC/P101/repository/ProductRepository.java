@@ -1,6 +1,6 @@
-package _06MySQLDatabase.repository;
+package _06JDBC.repository;
 
-import _06MySQLDatabase.model.Product;
+import _06JDBC.model.Product;
 
 import java.util.List;
 

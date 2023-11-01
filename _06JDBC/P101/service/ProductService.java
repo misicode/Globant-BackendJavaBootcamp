@@ -1,8 +1,8 @@
-package _06MySQLDatabase.service;
+package _06JDBC.service;
 
-import _06MySQLDatabase.model.Product;
-import _06MySQLDatabase.repository.ProductRepository;
-import _06MySQLDatabase.repository.ProductRepositoryImpl;
+import _06JDBC.model.Product;
+import _06JDBC.repository.ProductRepository;
+import _06JDBC.repository.ProductRepositoryImpl;
 
 import java.util.Scanner;
 

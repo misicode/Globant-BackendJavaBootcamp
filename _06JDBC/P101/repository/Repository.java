@@ -1,4 +1,4 @@
-package _06MySQLDatabase.repository;
+package _06JDBC.repository;
 
 import java.util.List;
 

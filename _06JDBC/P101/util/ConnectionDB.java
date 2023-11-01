@@ -1,4 +1,4 @@
-package _06MySQLDatabase.util;
+package _06JDBC.util;
 
 import java.sql.Connection;
 import java.sql.DriverManager;

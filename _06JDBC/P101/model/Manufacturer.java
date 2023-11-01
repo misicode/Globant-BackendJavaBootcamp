@@ -1,4 +1,4 @@
-package _06MySQLDatabase.model;
+package _06JDBC.model;
 
 public class Manufacturer {
     private int code;

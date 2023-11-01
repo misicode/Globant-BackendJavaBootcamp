@@ -1,7 +1,7 @@
-package _06MySQLDatabase;
+package _06JDBC;
 
-import _06MySQLDatabase.service.ManufacturerService;
-import _06MySQLDatabase.service.ProductService;
+import _06JDBC.service.ManufacturerService;
+import _06JDBC.service.ProductService;
 
 import java.util.Scanner;
 

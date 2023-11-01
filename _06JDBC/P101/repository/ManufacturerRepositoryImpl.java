@@ -1,7 +1,7 @@
-package _06MySQLDatabase.repository;
+package _06JDBC.repository;
 
-import _06MySQLDatabase.model.Manufacturer;
-import _06MySQLDatabase.util.ConnectionDB;
+import _06JDBC.model.Manufacturer;
+import _06JDBC.util.ConnectionDB;
 
 import java.sql.*;
 import java.util.ArrayList;
