@@ -1,4 +1,4 @@
-package org.amincia._06JDBC.P101.model;
+package org.amincia._06JDBC.P101.entity;
 
 public class Product {
     private int code;

@@ -1,6 +1,6 @@
 package org.amincia._06JDBC.P101.service;
 
-import org.amincia._06JDBC.P101.model.Manufacturer;
+import org.amincia._06JDBC.P101.entity.Manufacturer;
 import org.amincia._06JDBC.P101.repository.ManufacturerRepositoryImpl;
 import org.amincia._06JDBC.P101.repository.Repository;
 
