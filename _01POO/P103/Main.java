@@ -1,7 +1,7 @@
-package _01POO.P103;
+package org.amincia._01POO.P103;
 
-import _01POO.P103.entities.Operation;
-import _01POO.P103.services.OperationService;
+import org.amincia._01POO.P103.entities.Operation;
+import org.amincia._01POO.P103.services.OperationService;
 
 public class Main {
     public static void main(String[] args) {

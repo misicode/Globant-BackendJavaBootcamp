@@ -1,7 +1,7 @@
-package _01POO.P109;
+package org.amincia._01POO.P109;
 
-import _01POO.P109.entities.Mathematics;
-import _01POO.P109.services.MathematicsService;
+import org.amincia._01POO.P109.entities.Mathematics;
+import org.amincia._01POO.P109.services.MathematicsService;
 
 public class Main {
     public static void main(String[] args) {

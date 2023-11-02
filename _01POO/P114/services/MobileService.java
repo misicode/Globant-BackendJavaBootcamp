@@ -1,6 +1,6 @@
-package _01POO.P114.services;
+package org.amincia._01POO.P114.services;
 
-import _01POO.P114.entities.Mobile;
+import org.amincia._01POO.P114.entities.Mobile;
 
 import java.util.Scanner;
 

@@ -1,7 +1,7 @@
-package _01POO.P201;
+package org.amincia._01POO.P201;
 
-import _01POO.P201.entities.Song;
-import _01POO.P201.services.SongService;
+import org.amincia._01POO.P201.entities.Song;
+import org.amincia._01POO.P201.services.SongService;
 
 public class Main {
     public static void main(String[] args) {

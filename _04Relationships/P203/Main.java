@@ -1,7 +1,7 @@
-package _04Relationships.P203;
+package org.amincia._04Relationships.P203;
 
-import _04Relationships.P203.entities.Policy;
-import _04Relationships.P203.services.PolicyService;
+import org.amincia._04Relationships.P203.entities.Policy;
+import org.amincia._04Relationships.P203.services.PolicyService;
 
 public class Main {
     public static void main(String[] args) {

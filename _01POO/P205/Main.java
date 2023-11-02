@@ -1,7 +1,7 @@
-package _01POO.P205;
+package org.amincia._01POO.P205;
 
-import _01POO.P205.entities.GuessMonth;
-import _01POO.P205.services.GuessMonthService;
+import org.amincia._01POO.P205.entities.GuessMonth;
+import org.amincia._01POO.P205.services.GuessMonthService;
 
 public class Main {
     public static void main(String[] args) {

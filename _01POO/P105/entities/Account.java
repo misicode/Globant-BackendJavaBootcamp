@@ -1,4 +1,4 @@
-package _01POO.P105.entities;
+package org.amincia._01POO.P105.entities;
 
 public class Account {
     private int accountNumber;

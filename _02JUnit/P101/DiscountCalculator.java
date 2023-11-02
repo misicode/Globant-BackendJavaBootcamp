@@ -1,4 +1,4 @@
-package _02JUnit.P101;
+package org.amincia._02JUnit.P101;
 
 public class DiscountCalculator {
     /**

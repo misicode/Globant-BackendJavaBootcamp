@@ -1,6 +1,6 @@
-package _01POO.P105.services;
+package org.amincia._01POO.P105.services;
 
-import _01POO.P105.entities.Account;
+import org.amincia._01POO.P105.entities.Account;
 
 import java.util.Scanner;
 

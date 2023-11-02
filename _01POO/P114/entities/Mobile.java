@@ -1,4 +1,4 @@
-package _01POO.P114.entities;
+package org.amincia._01POO.P114.entities;
 
 import java.util.Arrays;
 

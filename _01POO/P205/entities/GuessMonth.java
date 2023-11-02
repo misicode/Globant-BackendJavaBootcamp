@@ -1,4 +1,4 @@
-package _01POO.P205.entities;
+package org.amincia._01POO.P205.entities;
 
 public class GuessMonth {
     private String secretMonth;

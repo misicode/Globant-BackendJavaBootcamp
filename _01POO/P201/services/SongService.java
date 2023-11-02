@@ -1,6 +1,6 @@
-package _01POO.P201.services;
+package org.amincia._01POO.P201.services;
 
-import _01POO.P201.entities.Song;
+import org.amincia._01POO.P201.entities.Song;
 
 import java.util.Scanner;
 

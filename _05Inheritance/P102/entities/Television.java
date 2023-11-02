@@ -1,4 +1,4 @@
-package _05Inheritance.P102.entities;
+package org.amincia._05Inheritance.P102.entities;
 
 public class Television extends HouseholdAppliance {
     private int resolution;

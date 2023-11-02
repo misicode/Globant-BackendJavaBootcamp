@@ -1,6 +1,6 @@
-package _01POO.P102.services;
+package org.amincia._01POO.P102.services;
 
-import _01POO.P102.entities.Circumference;
+import org.amincia._01POO.P102.entities.Circumference;
 
 import java.util.Scanner;
 

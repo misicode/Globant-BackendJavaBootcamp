@@ -1,4 +1,4 @@
-package _04Relationships.P101.entities;
+package org.amincia._04Relationships.P101.entities;
 
 public class Person {
     private String name;

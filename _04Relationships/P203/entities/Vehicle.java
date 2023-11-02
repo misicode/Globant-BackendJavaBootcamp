@@ -1,4 +1,4 @@
-package _04Relationships.P203.entities;
+package org.amincia._04Relationships.P203.entities;
 
 public class Vehicle {
     private String brand;

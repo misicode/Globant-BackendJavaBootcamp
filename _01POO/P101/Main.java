@@ -1,6 +1,6 @@
-package _01POO.P101;
+package org.amincia._01POO.P101;
 
-import _01POO.P101.services.BookService;
+import org.amincia._01POO.P101.services.BookService;
 
 public class Main {
     public static void main(String[] args) {

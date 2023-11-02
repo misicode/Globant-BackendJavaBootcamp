@@ -1,4 +1,4 @@
-package _01POO.P112.entities;
+package org.amincia._01POO.P112.entities;
 
 import java.util.Calendar;
 

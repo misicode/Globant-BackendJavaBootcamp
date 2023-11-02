@@ -1,6 +1,6 @@
-package _03Collections.P103.services;
+package org.amincia._03Collections.P103.services;
 
-import _03Collections.P103.entities.Student;
+import org.amincia._03Collections.P103.entities.Student;
 
 import java.util.ArrayList;
 import java.util.Scanner;

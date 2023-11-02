@@ -1,4 +1,4 @@
-package _02JUnit.P105;
+package org.amincia._02JUnit.P105;
 
 import java.text.DateFormat;
 import java.text.ParseException;

@@ -1,4 +1,4 @@
-package _04Relationships.P203.entities;
+package org.amincia._04Relationships.P203.entities;
 
 import java.util.ArrayList;
 import java.util.Calendar;

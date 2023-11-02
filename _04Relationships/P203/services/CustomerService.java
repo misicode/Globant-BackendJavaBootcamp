@@ -1,6 +1,6 @@
-package _04Relationships.P203.services;
+package org.amincia._04Relationships.P203.services;
 
-import _04Relationships.P203.entities.Customer;
+import org.amincia._04Relationships.P203.entities.Customer;
 
 public class CustomerService {
     public Customer createCustomer() {

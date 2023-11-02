@@ -1,4 +1,4 @@
-package _01POO.P113.entities;
+package org.amincia._01POO.P113.entities;
 
 public enum Turn {
     M("Mañana"),

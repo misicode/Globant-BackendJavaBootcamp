@@ -1,6 +1,6 @@
-package _01POO.P103.services;
+package org.amincia._01POO.P103.services;
 
-import _01POO.P103.entities.Operation;
+import org.amincia._01POO.P103.entities.Operation;
 
 import java.util.Scanner;
 

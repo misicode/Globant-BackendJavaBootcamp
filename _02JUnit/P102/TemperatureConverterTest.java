@@ -1,4 +1,4 @@
-package _02JUnit.P102;
+package org.amincia._02JUnit.P102;
 
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.DisplayName;

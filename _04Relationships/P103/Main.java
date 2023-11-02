@@ -1,7 +1,7 @@
-package _04Relationships.P103;
+package org.amincia._04Relationships.P103;
 
-import _04Relationships.P103.entities.DeckCards;
-import _04Relationships.P103.services.DeckCardsService;
+import org.amincia._04Relationships.P103.entities.DeckCards;
+import org.amincia._04Relationships.P103.services.DeckCardsService;
 
 import java.util.Scanner;
 

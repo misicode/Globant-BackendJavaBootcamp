@@ -1,7 +1,7 @@
-package _01POO.P110;
+package org.amincia._01POO.P110;
 
-import _01POO.P110.entities.OrderArrays;
-import _01POO.P110.services.OrderArraysService;
+import org.amincia._01POO.P110.entities.OrderArrays;
+import org.amincia._01POO.P110.services.OrderArraysService;
 
 public class Main {
     public static void main(String[] args) {

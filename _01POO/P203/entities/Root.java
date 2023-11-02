@@ -1,4 +1,4 @@
-package _01POO.P203.entities;
+package org.amincia._01POO.P203.entities;
 
 public class Root {
     private double a;

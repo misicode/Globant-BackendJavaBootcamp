@@ -1,4 +1,4 @@
-package _04Relationships.P103.entities;
+package org.amincia._04Relationships.P103.entities;
 
 public enum Symbol {
     E("Espadas"),

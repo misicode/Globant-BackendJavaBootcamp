@@ -1,4 +1,4 @@
-package _04Relationships.P202.entities;
+package org.amincia._04Relationships.P202.entities;
 
 public class Cinema {
     private Movie movie;

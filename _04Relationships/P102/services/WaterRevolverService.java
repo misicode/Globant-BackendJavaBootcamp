@@ -1,6 +1,6 @@
-package _04Relationships.P102.services;
+package org.amincia._04Relationships.P102.services;
 
-import _04Relationships.P102.entities.WaterRevolver;
+import org.amincia._04Relationships.P102.entities.WaterRevolver;
 
 public class WaterRevolverService {
     public WaterRevolver fillRevolver() {

@@ -1,7 +1,7 @@
-package _01POO.P202;
+package org.amincia._01POO.P202;
 
-import _01POO.P202.entities.Point;
-import _01POO.P202.services.PointService;
+import org.amincia._01POO.P202.entities.Point;
+import org.amincia._01POO.P202.services.PointService;
 
 public class Main {
     public static void main(String[] args) {

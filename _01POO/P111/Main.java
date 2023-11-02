@@ -1,4 +1,4 @@
-package _01POO.P111;
+package org.amincia._01POO.P111;
 
 import java.util.Calendar;
 import java.util.Scanner;

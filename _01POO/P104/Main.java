@@ -1,7 +1,7 @@
-package _01POO.P104;
+package org.amincia._01POO.P104;
 
-import _01POO.P104.entities.Rectangle;
-import _01POO.P104.services.RectangleService;
+import org.amincia._01POO.P104.entities.Rectangle;
+import org.amincia._01POO.P104.services.RectangleService;
 
 public class Main {
     public static void main(String[] args) {

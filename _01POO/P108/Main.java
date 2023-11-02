@@ -1,7 +1,7 @@
-package _01POO.P108;
+package org.amincia._01POO.P108;
 
-import _01POO.P108.entities.Chain;
-import _01POO.P108.services.ChainService;
+import org.amincia._01POO.P108.entities.Chain;
+import org.amincia._01POO.P108.services.ChainService;
 
 import java.util.Scanner;
 

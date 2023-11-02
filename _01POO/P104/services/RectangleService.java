@@ -1,6 +1,6 @@
-package _01POO.P104.services;
+package org.amincia._01POO.P104.services;
 
-import _01POO.P104.entities.Rectangle;
+import org.amincia._01POO.P104.entities.Rectangle;
 
 import java.util.Scanner;
 

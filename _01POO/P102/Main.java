@@ -1,7 +1,7 @@
-package _01POO.P102;
+package org.amincia._01POO.P102;
 
-import _01POO.P102.entities.Circumference;
-import _01POO.P102.services.CircumferenceService;
+import org.amincia._01POO.P102.entities.Circumference;
+import org.amincia._01POO.P102.services.CircumferenceService;
 
 public class Main {
     public static void main(String[] args) {

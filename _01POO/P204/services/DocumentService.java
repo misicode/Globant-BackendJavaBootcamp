@@ -1,6 +1,6 @@
-package _01POO.P204.services;
+package org.amincia._01POO.P204.services;
 
-import _01POO.P204.entities.Document;
+import org.amincia._01POO.P204.entities.Document;
 
 import java.util.Scanner;
 

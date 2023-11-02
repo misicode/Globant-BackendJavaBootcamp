@@ -1,4 +1,4 @@
-package _03Collections.P103.entities;
+package org.amincia._03Collections.P103.entities;
 
 import java.util.ArrayList;
 

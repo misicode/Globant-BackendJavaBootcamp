@@ -1,8 +1,8 @@
-package _01POO.P113.services;
+package org.amincia._01POO.P113.services;
 
-import _01POO.P113.entities.Course;
-import _01POO.P113.entities.Student;
-import _01POO.P113.entities.Turn;
+import org.amincia._01POO.P113.entities.Course;
+import org.amincia._01POO.P113.entities.Student;
+import org.amincia._01POO.P113.entities.Turn;
 
 import java.util.Scanner;
 

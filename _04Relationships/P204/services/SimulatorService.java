@@ -1,7 +1,7 @@
-package _04Relationships.P204.services;
+package org.amincia._04Relationships.P204.services;
 
-import _04Relationships.P204.entities.Student;
-import _04Relationships.P204.entities.Vote;
+import org.amincia._04Relationships.P204.entities.Student;
+import org.amincia._04Relationships.P204.entities.Vote;
 
 import java.util.ArrayList;
 import java.util.HashSet;

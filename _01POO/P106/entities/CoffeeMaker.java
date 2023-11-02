@@ -1,4 +1,4 @@
-package _01POO.P106.entities;
+package org.amincia._01POO.P106.entities;
 
 public class CoffeeMaker {
     private float maxCapacity;

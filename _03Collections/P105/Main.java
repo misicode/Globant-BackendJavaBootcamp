@@ -1,6 +1,6 @@
-package _03Collections.P105;
+package org.amincia._03Collections.P105;
 
-import _03Collections.P105.services.CountryService;
+import org.amincia._03Collections.P105.services.CountryService;
 
 import java.util.HashSet;
 

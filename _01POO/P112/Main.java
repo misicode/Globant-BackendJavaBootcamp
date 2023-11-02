@@ -1,7 +1,7 @@
-package _01POO.P112;
+package org.amincia._01POO.P112;
 
-import _01POO.P112.entities.Person;
-import _01POO.P112.services.PersonService;
+import org.amincia._01POO.P112.entities.Person;
+import org.amincia._01POO.P112.services.PersonService;
 
 public class Main {
     public static void main(String[] args) {

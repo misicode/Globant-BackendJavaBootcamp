@@ -1,6 +1,6 @@
-package _01POO.P202.services;
+package org.amincia._01POO.P202.services;
 
-import _01POO.P202.entities.Point;
+import org.amincia._01POO.P202.entities.Point;
 
 import java.util.Scanner;
 

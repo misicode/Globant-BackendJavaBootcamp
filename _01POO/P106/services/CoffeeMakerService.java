@@ -1,6 +1,6 @@
-package _01POO.P106.services;
+package org.amincia._01POO.P106.services;
 
-import _01POO.P106.entities.CoffeeMaker;
+import org.amincia._01POO.P106.entities.CoffeeMaker;
 
 import java.util.Scanner;
 

@@ -1,7 +1,7 @@
-package _03Collections.P104;
+package org.amincia._03Collections.P104;
 
-import _03Collections.P104.entities.Movie;
-import _03Collections.P104.services.MovieService;
+import org.amincia._03Collections.P104.entities.Movie;
+import org.amincia._03Collections.P104.services.MovieService;
 
 import java.util.ArrayList;
 

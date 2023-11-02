@@ -1,4 +1,4 @@
-package _05Inheritance.P104.entities;
+package org.amincia._05Inheritance.P104.entities;
 
 public class Rectangle implements Shape {
     private double base;

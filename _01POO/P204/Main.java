@@ -1,7 +1,7 @@
-package _01POO.P204;
+package org.amincia._01POO.P204;
 
-import _01POO.P204.entities.Document;
-import _01POO.P204.services.DocumentService;
+import org.amincia._01POO.P204.entities.Document;
+import org.amincia._01POO.P204.services.DocumentService;
 
 public class Main {
     public static void main(String[] args) {

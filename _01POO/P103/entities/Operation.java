@@ -1,4 +1,4 @@
-package _01POO.P103.entities;
+package org.amincia._01POO.P103.entities;
 
 public class Operation {
     private double number1;

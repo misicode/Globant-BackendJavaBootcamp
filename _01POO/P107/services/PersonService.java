@@ -1,7 +1,7 @@
-package _01POO.P107.services;
+package org.amincia._01POO.P107.services;
 
-import _01POO.P107.entities.Gender;
-import _01POO.P107.entities.Person;
+import org.amincia._01POO.P107.entities.Gender;
+import org.amincia._01POO.P107.entities.Person;
 
 import java.util.Scanner;
 

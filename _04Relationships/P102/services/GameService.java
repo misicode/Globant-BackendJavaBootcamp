@@ -1,8 +1,8 @@
-package _04Relationships.P102.services;
+package org.amincia._04Relationships.P102.services;
 
-import _04Relationships.P102.entities.Game;
-import _04Relationships.P102.entities.Player;
-import _04Relationships.P102.entities.WaterRevolver;
+import org.amincia._04Relationships.P102.entities.Game;
+import org.amincia._04Relationships.P102.entities.Player;
+import org.amincia._04Relationships.P102.entities.WaterRevolver;
 
 import java.util.ArrayList;
 import java.util.Scanner;

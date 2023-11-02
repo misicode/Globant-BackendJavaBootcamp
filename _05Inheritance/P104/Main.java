@@ -1,7 +1,7 @@
-package _05Inheritance.P104;
+package org.amincia._05Inheritance.P104;
 
-import _05Inheritance.P104.entities.Circle;
-import _05Inheritance.P104.entities.Rectangle;
+import org.amincia._05Inheritance.P104.entities.Circle;
+import org.amincia._05Inheritance.P104.entities.Rectangle;
 
 public class Main {
     public static void main(String[] args) {

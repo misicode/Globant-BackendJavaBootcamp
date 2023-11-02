@@ -1,7 +1,7 @@
-package _04Relationships.P101;
+package org.amincia._04Relationships.P101;
 
-import _04Relationships.P101.entities.Person;
-import _04Relationships.P101.services.PersonService;
+import org.amincia._04Relationships.P101.entities.Person;
+import org.amincia._04Relationships.P101.services.PersonService;
 
 public class Main {
     public static void main(String[] args) {

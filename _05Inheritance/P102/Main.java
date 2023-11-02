@@ -1,9 +1,9 @@
-package _05Inheritance.P102;
+package org.amincia._05Inheritance.P102;
 
-import _05Inheritance.P102.entities.Television;
-import _05Inheritance.P102.entities.Washer;
-import _05Inheritance.P102.services.TelevisionService;
-import _05Inheritance.P102.services.WasherService;
+import org.amincia._05Inheritance.P102.entities.Television;
+import org.amincia._05Inheritance.P102.entities.Washer;
+import org.amincia._05Inheritance.P102.services.TelevisionService;
+import org.amincia._05Inheritance.P102.services.WasherService;
 
 public class Main {
     public static void main(String[] args) {

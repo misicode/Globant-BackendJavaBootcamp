@@ -1,6 +1,6 @@
-package _04Relationships.P201;
+package org.amincia._04Relationships.P201;
 
-import _04Relationships.P201.services.AdoptService;
+import org.amincia._04Relationships.P201.services.AdoptService;
 
 public class Main {
     public static void main(String[] args) {

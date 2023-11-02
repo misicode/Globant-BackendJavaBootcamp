@@ -1,4 +1,4 @@
-package _01POO.P107.entities;
+package org.amincia._01POO.P107.entities;
 
 public enum Gender {
     H("Hombre"),

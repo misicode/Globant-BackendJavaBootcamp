@@ -1,7 +1,7 @@
-package _04Relationships.P202;
+package org.amincia._04Relationships.P202;
 
-import _04Relationships.P202.entities.Cinema;
-import _04Relationships.P202.services.CinemaService;
+import org.amincia._04Relationships.P202.entities.Cinema;
+import org.amincia._04Relationships.P202.services.CinemaService;
 
 public class Main {
     public static void main(String[] args) {

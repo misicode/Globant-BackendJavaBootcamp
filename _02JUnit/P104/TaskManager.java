@@ -1,4 +1,4 @@
-package _02JUnit.P104;
+package org.amincia._02JUnit.P104;
 
 import java.util.ArrayList;
 

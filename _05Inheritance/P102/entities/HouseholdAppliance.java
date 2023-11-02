@@ -1,4 +1,4 @@
-package _05Inheritance.P102.entities;
+package org.amincia._05Inheritance.P102.entities;
 
 public class HouseholdAppliance {
     private double price;

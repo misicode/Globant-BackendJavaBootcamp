@@ -1,4 +1,4 @@
-package _03Collections.P101.entities;
+package org.amincia._03Collections.P101.entities;
 
 import java.util.Comparator;
 

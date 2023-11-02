@@ -1,7 +1,7 @@
-package _04Relationships.P203.services;
+package org.amincia._04Relationships.P203.services;
 
-import _04Relationships.P203.entities.Fee;
-import _04Relationships.P203.entities.Policy;
+import org.amincia._04Relationships.P203.entities.Fee;
+import org.amincia._04Relationships.P203.entities.Policy;
 
 import java.util.ArrayList;
 import java.util.Calendar;

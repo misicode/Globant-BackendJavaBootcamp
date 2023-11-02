@@ -1,6 +1,6 @@
-package _01POO.P112.services;
+package org.amincia._01POO.P112.services;
 
-import _01POO.P112.entities.Person;
+import org.amincia._01POO.P112.entities.Person;
 
 import java.util.Calendar;
 import java.util.Scanner;

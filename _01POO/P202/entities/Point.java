@@ -1,4 +1,4 @@
-package _01POO.P202.entities;
+package org.amincia._01POO.P202.entities;
 
 public class Point {
     private float x1;

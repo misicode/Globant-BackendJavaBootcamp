@@ -1,6 +1,6 @@
-package _01POO.P110.services;
+package org.amincia._01POO.P110.services;
 
-import _01POO.P110.entities.OrderArrays;
+import org.amincia._01POO.P110.entities.OrderArrays;
 
 import java.util.Arrays;
 

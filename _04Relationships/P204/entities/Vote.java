@@ -1,4 +1,4 @@
-package _04Relationships.P204.entities;
+package org.amincia._04Relationships.P204.entities;
 
 import java.util.HashSet;
 

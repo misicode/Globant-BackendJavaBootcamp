@@ -1,4 +1,4 @@
-package _04Relationships.P102.entities;
+package org.amincia._04Relationships.P102.entities;
 
 public class Player {
     private int id;

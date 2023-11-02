@@ -1,8 +1,8 @@
-package _04Relationships.P103.services;
+package org.amincia._04Relationships.P103.services;
 
-import _04Relationships.P103.entities.Card;
-import _04Relationships.P103.entities.DeckCards;
-import _04Relationships.P103.entities.Symbol;
+import org.amincia._04Relationships.P103.entities.Card;
+import org.amincia._04Relationships.P103.entities.DeckCards;
+import org.amincia._04Relationships.P103.entities.Symbol;
 
 import java.util.ArrayList;
 import java.util.Collections;

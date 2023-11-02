@@ -1,6 +1,6 @@
-package _01POO.P109.services;
+package org.amincia._01POO.P109.services;
 
-import _01POO.P109.entities.Mathematics;
+import org.amincia._01POO.P109.entities.Mathematics;
 
 public class MathematicsService {
     public Mathematics createMathematics() {
