@@ -1,4 +1,4 @@
-package org.amincia._06JDBC.P101.entity;
+package org.amincia._06JDBC.entity;
 
 public class Manufacturer {
     private int code;

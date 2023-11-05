@@ -1,7 +1,7 @@
-package org.amincia._06JDBC.P101.repository;
+package org.amincia._06JDBC.repository;
 
-import org.amincia._06JDBC.P101.entity.Manufacturer;
-import org.amincia._06JDBC.P101.util.ConnectionDB;
+import org.amincia._06JDBC.entity.Manufacturer;
+import org.amincia._06JDBC.util.ConnectionDB;
 
 import java.sql.*;
 import java.util.ArrayList;

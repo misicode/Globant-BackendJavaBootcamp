@@ -1,8 +1,8 @@
-package org.amincia._06JDBC.P101.service;
+package org.amincia._06JDBC.service;
 
-import org.amincia._06JDBC.P101.entity.Manufacturer;
-import org.amincia._06JDBC.P101.repository.ManufacturerRepositoryImpl;
-import org.amincia._06JDBC.P101.repository.Repository;
+import org.amincia._06JDBC.entity.Manufacturer;
+import org.amincia._06JDBC.repository.ManufacturerRepositoryImpl;
+import org.amincia._06JDBC.repository.Repository;
 
 import java.util.Scanner;
 

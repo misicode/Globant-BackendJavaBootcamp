@@ -1,4 +1,4 @@
-package org.amincia._06JDBC.P101.repository;
+package org.amincia._06JDBC.repository;
 
 import java.util.List;
 

@@ -1,6 +1,6 @@
-package org.amincia._06JDBC.P101.repository;
+package org.amincia._06JDBC.repository;
 
-import org.amincia._06JDBC.P101.entity.Product;
+import org.amincia._06JDBC.entity.Product;
 
 import java.util.List;
 
