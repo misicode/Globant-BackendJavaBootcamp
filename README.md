@@ -19,7 +19,7 @@ Repositorio con la guía teórica y las soluciones a los ejercicios de aprendiza
 
 
 ## 💻 Configuración
-Se utilizaron las siguientes dependencias para la resolución de algunos ejercicios. Dentro del archivo `pom.xml` de su proyecto, busqué la etiqueta `<dependencies>` y agregue la siguiente lista de dependencias.
+Se utilizaron las siguientes dependencias para la resolución de los ejercicios de las secciones 02 JUnit, 06 JDBC y 07 JPA. Dentro del archivo `pom.xml` de su proyecto, busqué la etiqueta `<dependencies>` y agregue la siguiente lista de dependencias.
 
 ```xml
 <dependencies>
@@ -41,7 +41,7 @@ Se utilizaron las siguientes dependencias para la resolución de algunos ejercic
 </dependencies>
 ```
 
-A su vez, se realizó la siguiente configuración para la persistencia de datos con Hibernate y el conector de la base de datos de MySQL para la resolución del ejercicio de la sección 07 JPA.
+A su vez, se realizó la siguiente configuración para la persistencia de datos con Hibernate y el conector de la base de datos de MySQL, para la resolución del ejercicio de la sección 07 JPA.
 
 Dentro del archivo `persistence.xml` que se ubica en la carpeta `META-INF` de su proyecto, agregue todo el siguiente fragmento de código.
 
@@ -84,10 +84,10 @@ Y dentro de este mismo archivo `persistence.xml`, debe modificar el contenido de
 | Herramienta    | Uso                                                                                                                  | Versión |
 | -------------- | -------------------------------------------------------------------------------------------------------------------- | ------- |
 | [![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)](https://www.jetbrains.com/idea/download/) | Entorno de desarrollo donde se realizaron los ejercicios | 2023.2 Ultimate Edition
-| [![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)](https://dev.java)                                              | Lenguaje de programación orientado a objetos | 17.0.1
+| [![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)](https://dev.java)                                              | Lenguaje de programación utilizado | 17.0.1
 | [![Apache Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white)](https://maven.apache.org)                             | Herramienta para la gestión de dependencias | 3.9.2
 | [![JUnit 5](https://img.shields.io/badge/Junit5-25A162?style=for-the-badge&logo=junit5&logoColor=white)](https://junit.org/junit5/docs/current/user-guide/)                | Framework para realizar pruebas unitarias | 5.9.1
-| [![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)](https://dev.mysql.com/doc/)                                           | Gestor para el manejo de bases de datos relacional con SQL | 8.0.34 Community
+| [![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)](https://dev.mysql.com/doc/)                                           | Gestor para el manejo de bases de datos relacional | 8.0.34 Community
 | [![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)](https://hibernate.org/orm/documentation/6.3/)             | ORM para persistir los objetos en la base de datos | 5.6.15.Final
 
 
