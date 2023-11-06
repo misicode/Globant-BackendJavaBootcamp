@@ -9,17 +9,18 @@ Repositorio con la guía teórica y las soluciones a los ejercicios de aprendiza
 
 | N°  | Tema                                   | Guía                                                                                                         | Ejercicios |
 | :-: | -------------------------------------- | :----------------------------------------------------------------------------------------------------------: | :--------: |
-| 01  | POO (Programación Orientada a Objetos) | [Abrir](https://github.com/misicode/Globant-JavaBootcamp/blob/main/_01POO/Guide/POO.pdf)                     | [Ver](https://github.com/misicode/Globant-JavaBootcamp/blob/main/_01POO/Guide/Exercises) |
-| 02  | JUnit                                  | [Abrir](https://github.com/misicode/Globant-JavaBootcamp/blob/main/_02JUnit/Guide/JUnit.pdf)                 | [Ver](https://github.com/misicode/Globant-JavaBootcamp/blob/main/_02JUnit/Guide/Exercises) |
-| 03  | Colecciones                            | [Abrir](https://github.com/misicode/Globant-JavaBootcamp/blob/main/_03Collections/Guide/Collections.pdf)     | [Ver](https://github.com/misicode/Globant-JavaBootcamp/blob/main/_03Collections/Guide/Exercises) |
-| 04  | Relaciones entre Clases                | [Abrir](https://github.com/misicode/Globant-JavaBootcamp/blob/main/_04Relationships/Guide/Relationships.pdf) | [Ver](https://github.com/misicode/Globant-JavaBootcamp/blob/main/_04Relationships/Guide/Exercises/) |
-| 05  | Herencia                               | [Abrir](https://github.com/misicode/Globant-JavaBootcamp/blob/main/_05Inheritance/Guide/Inheritance.pdf)     | [Ver](https://github.com/misicode/Globant-JavaBootcamp/blob/main/_05Inheritance/Guide/Exercises/) |
-| 06  | JDBC (Java Database Connectivity)      | [Abrir](https://github.com/misicode/Globant-JavaBootcamp/blob/main/_06JDBC/Guide/JDBC.pdf)                   | [Ver](https://github.com/misicode/Globant-JavaBootcamp/blob/main/_06JDBC/Guide/Exercises/) |
-| 07  | JPA (Java Persistence API)             | [Abrir](https://github.com/misicode/Globant-JavaBootcamp/blob/main/_07JPA/Guide/JPA.pdf)                     | [Ver](https://github.com/misicode/Globant-JavaBootcamp/blob/main/_07JPA/Exercises/) |
+| 01  | POO (Programación Orientada a Objetos) | [Abrir](https://github.com/misicode/Globant-JavaBootcamp/blob/main/_01POO/Guide/POO.pdf)                     | [Ver](https://github.com/misicode/Globant-JavaBootcamp/blob/main/_01POO/Exercises/) |
+| 02  | JUnit                                  | [Abrir](https://github.com/misicode/Globant-JavaBootcamp/blob/main/_02JUnit/Guide/JUnit.pdf)                 | [Ver](https://github.com/misicode/Globant-JavaBootcamp/blob/main/_02JUnit/Exercises/) |
+| 03  | Colecciones                            | [Abrir](https://github.com/misicode/Globant-JavaBootcamp/blob/main/_03Collections/Guide/Collections.pdf)     | [Ver](https://github.com/misicode/Globant-JavaBootcamp/blob/main/_03Collections/Exercises/) |
+| 04  | Relaciones entre Clases                | [Abrir](https://github.com/misicode/Globant-JavaBootcamp/blob/main/_04Relationships/Guide/Relationships.pdf) | [Ver](https://github.com/misicode/Globant-JavaBootcamp/blob/main/_04Relationships/Exercises/) |
+| 05  | Herencia                               | [Abrir](https://github.com/misicode/Globant-JavaBootcamp/blob/main/_05Inheritance/Guide/Inheritance.pdf)     | [Ver](https://github.com/misicode/Globant-JavaBootcamp/blob/main/_05Inheritance/Exercises/) |
+| 06  | JDBC (Java Database Connectivity)      | [Abrir](https://github.com/misicode/Globant-JavaBootcamp/blob/main/_06JDBC/Guide/JDBC.pdf)                   | [Ver](https://github.com/misicode/Globant-JavaBootcamp/blob/main/_06JDBC/Exercise/) |
+| 07  | JPA (Java Persistence API)             | [Abrir](https://github.com/misicode/Globant-JavaBootcamp/blob/main/_07JPA/Guide/JPA.pdf)                     | [Ver](https://github.com/misicode/Globant-JavaBootcamp/blob/main/_07JPA/Exercise/) |
 
 
 ## 💻 Configuración
-Se utilizaron las siguientes dependencias para la resolución de los ejercicios de las secciones 02 JUnit, 06 JDBC y 07 JPA. Dentro del archivo `pom.xml` de su proyecto, busqué la etiqueta `<dependencies>` y agregue la siguiente lista de dependencias.
+- **Sobre las dependencias utilizadas**:
+Dentro del archivo `pom.xml` de su proyecto, busqué la etiqueta `<dependencies>` y agregue la siguiente lista de dependencias.
 
 ```xml
 <dependencies>
@@ -41,9 +42,8 @@ Se utilizaron las siguientes dependencias para la resolución de los ejercicios 
 </dependencies>
 ```
 
-A su vez, se realizó la siguiente configuración para la persistencia de datos con Hibernate y el conector de la base de datos de MySQL, para la resolución del ejercicio de la sección 07 JPA.
-
-Dentro del archivo `persistence.xml` que se ubica en la carpeta `META-INF` de su proyecto, agregue todo el siguiente fragmento de código.
+- **Sobre la configuración con Hibernate**:
+Dentro del archivo `persistence.xml`, que se ubica en la carpeta `META-INF` de su proyecto, escriba el siguiente fragmento de código.
 
 ```xml
 <?xml version="1.0" encoding="UTF-8" ?>
@@ -70,7 +70,7 @@ Dentro del archivo `persistence.xml` que se ubica en la carpeta `META-INF` de su
 </persistence>
 ```
 
-Y dentro de este mismo archivo `persistence.xml`, debe modificar el contenido del campo `value=""` de las siguientes propiedades, con los valores de conexión a su base de datos personal.
+Y modifiqué el contenido del campo `value=""` de las siguientes propiedades, con los valores de conexión a su base de datos.
 
 ```xml
 <property name="jakarta.persistence.jdbc.url" value="your_url"/>
