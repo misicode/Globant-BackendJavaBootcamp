@@ -1,4 +1,4 @@
-package org.amincia._05Inheritance.P104.entities;
+package org.amincia._05Inheritance.Exercises.P104.entities;
 
 public class Circle implements Shape {
     private double radio;

@@ -1,4 +1,4 @@
-package org.amincia._05Inheritance.P101.entities;
+package org.amincia._05Inheritance.Exercises.P101.entities;
 
 public class Animal {
     protected String name;

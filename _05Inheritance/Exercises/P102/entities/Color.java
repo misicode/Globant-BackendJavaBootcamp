@@ -1,4 +1,4 @@
-package org.amincia._05Inheritance.P102.entities;
+package org.amincia._05Inheritance.Exercises.P102.entities;
 
 public enum Color {
     B("BLANCO"),

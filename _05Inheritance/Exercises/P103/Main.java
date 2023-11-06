@@ -1,11 +1,11 @@
-package org.amincia._05Inheritance.P103;
+package org.amincia._05Inheritance.Exercises.P103;
 
-import org.amincia._05Inheritance.P102.entities.Color;
-import org.amincia._05Inheritance.P102.entities.HouseholdAppliance;
-import org.amincia._05Inheritance.P102.entities.Television;
-import org.amincia._05Inheritance.P102.entities.Washer;
-import org.amincia._05Inheritance.P102.services.TelevisionService;
-import org.amincia._05Inheritance.P102.services.WasherService;
+import org.amincia._05Inheritance.Exercises.P102.entities.Color;
+import org.amincia._05Inheritance.Exercises.P102.entities.HouseholdAppliance;
+import org.amincia._05Inheritance.Exercises.P102.entities.Television;
+import org.amincia._05Inheritance.Exercises.P102.entities.Washer;
+import org.amincia._05Inheritance.Exercises.P102.services.TelevisionService;
+import org.amincia._05Inheritance.Exercises.P102.services.WasherService;
 
 import java.util.ArrayList;
 
