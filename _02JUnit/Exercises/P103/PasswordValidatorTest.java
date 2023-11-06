@@ -1,4 +1,4 @@
-package org.amincia._02JUnit.P103;
+package org.amincia._02JUnit.Exercises.P103;
 
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.DisplayName;

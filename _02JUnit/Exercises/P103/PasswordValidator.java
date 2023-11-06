@@ -1,4 +1,4 @@
-package org.amincia._02JUnit.P103;
+package org.amincia._02JUnit.Exercises.P103;
 
 import java.util.regex.Pattern;
 
