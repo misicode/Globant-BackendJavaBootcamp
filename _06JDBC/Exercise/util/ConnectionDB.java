@@ -1,4 +1,4 @@
-package org.amincia._06JDBC.util;
+package org.amincia._06JDBC.Exercise.util;
 
 import java.sql.Connection;
 import java.sql.DriverManager;

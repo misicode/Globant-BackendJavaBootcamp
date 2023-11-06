@@ -1,8 +1,8 @@
-package org.amincia._06JDBC.service;
+package org.amincia._06JDBC.Exercise.service;
 
-import org.amincia._06JDBC.entity.Product;
-import org.amincia._06JDBC.repository.ProductRepository;
-import org.amincia._06JDBC.repository.ProductRepositoryImpl;
+import org.amincia._06JDBC.Exercise.entity.Product;
+import org.amincia._06JDBC.Exercise.repository.ProductRepository;
+import org.amincia._06JDBC.Exercise.repository.ProductRepositoryImpl;
 
 import java.util.Scanner;
 
