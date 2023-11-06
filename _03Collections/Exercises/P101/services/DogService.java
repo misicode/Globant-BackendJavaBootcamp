@@ -1,6 +1,6 @@
-package org.amincia._03Collections.P101.services;
+package org.amincia._03Collections.Exercises.P101.services;
 
-import org.amincia._03Collections.P101.entities.Dog;
+import org.amincia._03Collections.Exercises.P101.entities.Dog;
 
 import java.util.*;
 

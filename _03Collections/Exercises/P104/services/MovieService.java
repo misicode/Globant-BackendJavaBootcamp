@@ -1,6 +1,6 @@
-package org.amincia._03Collections.P104.services;
+package org.amincia._03Collections.Exercises.P104.services;
 
-import org.amincia._03Collections.P104.entities.Movie;
+import org.amincia._03Collections.Exercises.P104.entities.Movie;
 
 import java.util.ArrayList;
 import java.util.Scanner;
@@ -9,7 +9,6 @@ public class MovieService {
     Scanner scanner = new Scanner(System.in).useDelimiter("\r?\n");
 
     public Movie createMovie() {
-        ArrayList<Integer> moviesList = new ArrayList<>();
         Movie movie = new Movie();
 
         System.out.print("Ingrese el título de la película: ");

@@ -1,7 +1,7 @@
-package org.amincia._03Collections.P103;
+package org.amincia._03Collections.Exercises.P103;
 
-import org.amincia._03Collections.P103.entities.Student;
-import org.amincia._03Collections.P103.services.StudentService;
+import org.amincia._03Collections.Exercises.P103.entities.Student;
+import org.amincia._03Collections.Exercises.P103.services.StudentService;
 
 import java.util.ArrayList;
 
