@@ -1,4 +1,4 @@
-package org.amincia._07JPA.repository;
+package org.amincia._07JPA.Exercise.repository;
 
 import java.util.List;
 

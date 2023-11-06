@@ -1,9 +1,9 @@
-package org.amincia._07JPA.service;
+package org.amincia._07JPA.Exercise.service;
 
 import jakarta.persistence.EntityManager;
-import org.amincia._07JPA.entity.Author;
-import org.amincia._07JPA.repository.AuthorCRUDRepository;
-import org.amincia._07JPA.repository.AuthorCRUDRepositoryImpl;
+import org.amincia._07JPA.Exercise.entity.Author;
+import org.amincia._07JPA.Exercise.repository.AuthorCRUDRepository;
+import org.amincia._07JPA.Exercise.repository.AuthorCRUDRepositoryImpl;
 
 import java.util.List;
 import java.util.Optional;

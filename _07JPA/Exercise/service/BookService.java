@@ -1,6 +1,6 @@
-package org.amincia._07JPA.service;
+package org.amincia._07JPA.Exercise.service;
 
-import org.amincia._07JPA.entity.Book;
+import org.amincia._07JPA.Exercise.entity.Book;
 
 import java.util.List;
 

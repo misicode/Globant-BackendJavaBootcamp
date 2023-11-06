@@ -50,9 +50,9 @@ Dentro del archivo `persistence.xml` que se ubica en la carpeta `META-INF` de su
 <persistence xmlns="https://jakarta.ee/xml/ns/persistence" version="3.0">
     <persistence-unit name="libraryJPA" transaction-type="RESOURCE_LOCAL">
         <provider>org.hibernate.jpa.HibernatePersistenceProvider</provider>
-        <class>org.amincia._07JPA.entity.Author</class>
-        <class>org.amincia._07JPA.entity.Editorial</class>
-        <class>org.amincia._07JPA.entity.Book</class>
+        <class>org.amincia._07JPA.Exercise.entity.Author</class>
+        <class>org.amincia._07JPA.Exercise.entity.Editorial</class>
+        <class>org.amincia._07JPA.Exercise.entity.Book</class>
         <properties>
             <!-- Database connection properties -->
             <property name="jakarta.persistence.jdbc.url" value="your_url"/>

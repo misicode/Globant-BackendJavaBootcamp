@@ -1,4 +1,4 @@
-package org.amincia._07JPA.util;
+package org.amincia._07JPA.Exercise.util;
 
 import jakarta.persistence.EntityManager;
 import jakarta.persistence.EntityManagerFactory;

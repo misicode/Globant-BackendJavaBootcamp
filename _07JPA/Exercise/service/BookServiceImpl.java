@@ -1,10 +1,10 @@
-package org.amincia._07JPA.service;
+package org.amincia._07JPA.Exercise.service;
 
 import jakarta.persistence.EntityManager;
-import org.amincia._07JPA.entity.Book;
-import org.amincia._07JPA.repository.BookCRUDRepository;
-import org.amincia._07JPA.repository.BookCRUDRepositoryImpl;
-import org.amincia._07JPA.util.JPAUtil;
+import org.amincia._07JPA.Exercise.entity.Book;
+import org.amincia._07JPA.Exercise.repository.BookCRUDRepository;
+import org.amincia._07JPA.Exercise.repository.BookCRUDRepositoryImpl;
+import org.amincia._07JPA.Exercise.util.JPAUtil;
 
 import java.util.List;
 import java.util.Optional;
