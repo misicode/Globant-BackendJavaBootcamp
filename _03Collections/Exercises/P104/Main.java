@@ -1,7 +1,7 @@
-package org.amincia._03Collections.Exercises.P104;
+package com.misicode._03Collections.Exercises.P104;
 
-import org.amincia._03Collections.Exercises.P104.entities.Movie;
-import org.amincia._03Collections.Exercises.P104.services.MovieService;
+import com.misicode._03Collections.Exercises.P104.entities.Movie;
+import com.misicode._03Collections.Exercises.P104.services.MovieService;
 
 import java.util.ArrayList;
 

@@ -1,7 +1,7 @@
-package org.amincia._01POO.Exercises.P107;
+package com.misicode._01POO.Exercises.P107;
 
-import org.amincia._01POO.Exercises.P107.entities.Person;
-import org.amincia._01POO.Exercises.P107.services.PersonService;
+import com.misicode._01POO.Exercises.P107.entities.Person;
+import com.misicode._01POO.Exercises.P107.services.PersonService;
 
 import java.util.HashMap;
 

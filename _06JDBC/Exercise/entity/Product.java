@@ -1,4 +1,4 @@
-package org.amincia._06JDBC.Exercise.entity;
+package com.misicode._06JDBC.Exercise.entity;
 
 public class Product {
     private int code;

@@ -1,6 +1,6 @@
-package org.amincia._01POO.Exercises.P101;
+package com.misicode._01POO.Exercises.P101;
 
-import org.amincia._01POO.Exercises.P101.services.BookService;
+import com.misicode._01POO.Exercises.P101.services.BookService;
 
 public class Main {
     public static void main(String[] args) {

@@ -1,6 +1,6 @@
-package org.amincia._01POO.Exercises.P206.services;
+package com.misicode._01POO.Exercises.P206.services;
 
-import org.amincia._01POO.Exercises.P206.entities.HangmanGame;
+import com.misicode._01POO.Exercises.P206.entities.HangmanGame;
 
 import java.util.Scanner;
 

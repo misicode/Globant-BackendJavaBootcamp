@@ -1,6 +1,6 @@
-package org.amincia._01POO.Exercises.P112.services;
+package com.misicode._01POO.Exercises.P112.services;
 
-import org.amincia._01POO.Exercises.P112.entities.Person;
+import com.misicode._01POO.Exercises.P112.entities.Person;
 
 import java.util.Calendar;
 import java.util.Scanner;

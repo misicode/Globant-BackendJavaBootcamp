@@ -1,4 +1,4 @@
-package org.amincia._06JDBC.Exercise.repository;
+package com.misicode._06JDBC.Exercise.repository;
 
 import java.util.List;
 

@@ -1,4 +1,4 @@
-package org.amincia._01POO.Exercises.P206.entities;
+package com.misicode._01POO.Exercises.P206.entities;
 
 public class HangmanGame {
     private char[] wordToSearch;

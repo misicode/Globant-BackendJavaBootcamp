@@ -1,7 +1,7 @@
-package org.amincia._01POO.Exercises.P112;
+package com.misicode._01POO.Exercises.P112;
 
-import org.amincia._01POO.Exercises.P112.entities.Person;
-import org.amincia._01POO.Exercises.P112.services.PersonService;
+import com.misicode._01POO.Exercises.P112.entities.Person;
+import com.misicode._01POO.Exercises.P112.services.PersonService;
 
 public class Main {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package org.amincia._03Collections.Exercises.P106.services;
+package com.misicode._03Collections.Exercises.P106.services;
 
 import java.util.HashMap;
 import java.util.Scanner;

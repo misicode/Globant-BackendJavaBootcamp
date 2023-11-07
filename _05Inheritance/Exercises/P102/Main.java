@@ -1,9 +1,9 @@
-package org.amincia._05Inheritance.Exercises.P102;
+package com.misicode._05Inheritance.Exercises.P102;
 
-import org.amincia._05Inheritance.Exercises.P102.entities.Television;
-import org.amincia._05Inheritance.Exercises.P102.entities.Washer;
-import org.amincia._05Inheritance.Exercises.P102.services.TelevisionService;
-import org.amincia._05Inheritance.Exercises.P102.services.WasherService;
+import com.misicode._05Inheritance.Exercises.P102.entities.Television;
+import com.misicode._05Inheritance.Exercises.P102.entities.Washer;
+import com.misicode._05Inheritance.Exercises.P102.services.TelevisionService;
+import com.misicode._05Inheritance.Exercises.P102.services.WasherService;
 
 public class Main {
     public static void main(String[] args) {

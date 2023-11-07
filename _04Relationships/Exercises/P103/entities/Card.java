@@ -1,4 +1,4 @@
-package org.amincia._04Relationships.Exercises.P103.entities;
+package com.misicode._04Relationships.Exercises.P103.entities;
 
 public class Card {
     private int number;

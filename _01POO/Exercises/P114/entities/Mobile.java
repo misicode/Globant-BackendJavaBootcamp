@@ -1,4 +1,4 @@
-package org.amincia._01POO.Exercises.P114.entities;
+package com.misicode._01POO.Exercises.P114.entities;
 
 import java.util.Arrays;
 

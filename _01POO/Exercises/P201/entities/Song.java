@@ -1,4 +1,4 @@
-package org.amincia._01POO.Exercises.P201.entities;
+package com.misicode._01POO.Exercises.P201.entities;
 
 public class Song {
     private String title;

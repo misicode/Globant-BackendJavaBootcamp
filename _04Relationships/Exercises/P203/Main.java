@@ -1,7 +1,7 @@
-package org.amincia._04Relationships.Exercises.P203;
+package com.misicode._04Relationships.Exercises.P203;
 
-import org.amincia._04Relationships.Exercises.P203.services.PolicyService;
-import org.amincia._04Relationships.Exercises.P203.entities.Policy;
+import com.misicode._04Relationships.Exercises.P203.entities.Policy;
+import com.misicode._04Relationships.Exercises.P203.services.PolicyService;
 
 public class Main {
     public static void main(String[] args) {

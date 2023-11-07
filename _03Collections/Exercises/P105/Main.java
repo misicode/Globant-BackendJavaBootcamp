@@ -1,6 +1,6 @@
-package org.amincia._03Collections.Exercises.P105;
+package com.misicode._03Collections.Exercises.P105;
 
-import org.amincia._03Collections.Exercises.P105.services.CountryService;
+import com.misicode._03Collections.Exercises.P105.services.CountryService;
 
 import java.util.HashSet;
 

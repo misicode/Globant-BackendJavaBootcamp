@@ -1,6 +1,6 @@
-package org.amincia._03Collections.Exercises.P104.services;
+package com.misicode._03Collections.Exercises.P104.services;
 
-import org.amincia._03Collections.Exercises.P104.entities.Movie;
+import com.misicode._03Collections.Exercises.P104.entities.Movie;
 
 import java.util.ArrayList;
 import java.util.Scanner;

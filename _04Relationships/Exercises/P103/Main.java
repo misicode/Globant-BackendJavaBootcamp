@@ -1,7 +1,7 @@
-package org.amincia._04Relationships.Exercises.P103;
+package com.misicode._04Relationships.Exercises.P103;
 
-import org.amincia._04Relationships.Exercises.P103.entities.DeckCards;
-import org.amincia._04Relationships.Exercises.P103.services.DeckCardsService;
+import com.misicode._04Relationships.Exercises.P103.entities.DeckCards;
+import com.misicode._04Relationships.Exercises.P103.services.DeckCardsService;
 
 import java.util.Scanner;
 

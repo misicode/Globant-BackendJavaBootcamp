@@ -1,6 +1,6 @@
-package org.amincia._07JPA.Exercise.repository;
+package com.misicode._07JPA.Exercise.repository;
 
-import org.amincia._07JPA.Exercise.entity.Editorial;
+import com.misicode._07JPA.Exercise.entity.Editorial;
 
 public interface EditorialCRUDRepository extends CRUDRepository<Editorial> {
     Editorial findByName(String name);

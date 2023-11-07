@@ -1,6 +1,6 @@
-package org.amincia._01POO.Exercises.P110.services;
+package com.misicode._01POO.Exercises.P110.services;
 
-import org.amincia._01POO.Exercises.P110.entities.OrderArrays;
+import com.misicode._01POO.Exercises.P110.entities.OrderArrays;
 
 import java.util.Arrays;
 

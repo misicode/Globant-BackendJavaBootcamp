@@ -1,4 +1,4 @@
-package org.amincia._01POO.Exercises.P106.entities;
+package com.misicode._01POO.Exercises.P106.entities;
 
 public class CoffeeMaker {
     private float maxCapacity;

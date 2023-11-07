@@ -1,4 +1,4 @@
-package org.amincia._01POO.Exercises.P113.entities;
+package com.misicode._01POO.Exercises.P113.entities;
 
 public class Course {
     private String name;

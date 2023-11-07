@@ -1,7 +1,7 @@
-package org.amincia._01POO.Exercises.P201;
+package com.misicode._01POO.Exercises.P201;
 
-import org.amincia._01POO.Exercises.P201.entities.Song;
-import org.amincia._01POO.Exercises.P201.services.SongService;
+import com.misicode._01POO.Exercises.P201.entities.Song;
+import com.misicode._01POO.Exercises.P201.services.SongService;
 
 public class Main {
     public static void main(String[] args) {

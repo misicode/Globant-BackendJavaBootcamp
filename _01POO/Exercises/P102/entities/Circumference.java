@@ -1,4 +1,4 @@
-package org.amincia._01POO.Exercises.P102.entities;
+package com.misicode._01POO.Exercises.P102.entities;
 
 public class Circumference {
     private double radio;

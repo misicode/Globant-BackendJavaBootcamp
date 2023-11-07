@@ -1,4 +1,4 @@
-package org.amincia._01POO.Exercises.P205.entities;
+package com.misicode._01POO.Exercises.P205.entities;
 
 public class GuessMonth {
     private String secretMonth;

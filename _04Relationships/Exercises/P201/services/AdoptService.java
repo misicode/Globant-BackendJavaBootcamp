@@ -1,7 +1,7 @@
-package org.amincia._04Relationships.Exercises.P201.services;
+package com.misicode._04Relationships.Exercises.P201.services;
 
-import org.amincia._04Relationships.Exercises.P201.entities.Dog;
-import org.amincia._04Relationships.Exercises.P201.entities.Person;
+import com.misicode._04Relationships.Exercises.P201.entities.Dog;
+import com.misicode._04Relationships.Exercises.P201.entities.Person;
 
 import java.util.ArrayList;
 import java.util.Scanner;

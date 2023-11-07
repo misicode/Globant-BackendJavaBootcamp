@@ -1,4 +1,4 @@
-package org.amincia._04Relationships.Exercises.P202.entities;
+package com.misicode._04Relationships.Exercises.P202.entities;
 
 public class Viewer {
     private String name;

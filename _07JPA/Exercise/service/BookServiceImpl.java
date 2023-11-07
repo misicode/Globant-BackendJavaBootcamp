@@ -1,10 +1,10 @@
-package org.amincia._07JPA.Exercise.service;
+package com.misicode._07JPA.Exercise.service;
 
+import com.misicode._07JPA.Exercise.entity.Book;
+import com.misicode._07JPA.Exercise.repository.BookCRUDRepository;
+import com.misicode._07JPA.Exercise.repository.BookCRUDRepositoryImpl;
+import com.misicode._07JPA.Exercise.util.JPAUtil;
 import jakarta.persistence.EntityManager;
-import org.amincia._07JPA.Exercise.entity.Book;
-import org.amincia._07JPA.Exercise.repository.BookCRUDRepository;
-import org.amincia._07JPA.Exercise.repository.BookCRUDRepositoryImpl;
-import org.amincia._07JPA.Exercise.util.JPAUtil;
 
 import java.util.List;
 import java.util.Optional;

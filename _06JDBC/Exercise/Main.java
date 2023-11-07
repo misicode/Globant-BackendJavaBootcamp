@@ -1,7 +1,7 @@
-package org.amincia._06JDBC.Exercise;
+package com.misicode._06JDBC.Exercise;
 
-import org.amincia._06JDBC.Exercise.service.ManufacturerService;
-import org.amincia._06JDBC.Exercise.service.ProductService;
+import com.misicode._06JDBC.Exercise.service.ManufacturerService;
+import com.misicode._06JDBC.Exercise.service.ProductService;
 
 import java.util.Scanner;
 

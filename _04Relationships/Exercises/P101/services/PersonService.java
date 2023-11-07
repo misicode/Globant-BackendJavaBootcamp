@@ -1,7 +1,7 @@
-package org.amincia._04Relationships.Exercises.P101.services;
+package com.misicode._04Relationships.Exercises.P101.services;
 
-import org.amincia._04Relationships.Exercises.P101.entities.Dog;
-import org.amincia._04Relationships.Exercises.P101.entities.Person;
+import com.misicode._04Relationships.Exercises.P101.entities.Dog;
+import com.misicode._04Relationships.Exercises.P101.entities.Person;
 
 import java.util.Scanner;
 

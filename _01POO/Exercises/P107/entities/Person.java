@@ -1,4 +1,4 @@
-package org.amincia._01POO.Exercises.P107.entities;
+package com.misicode._01POO.Exercises.P107.entities;
 
 public class Person {
     private String name;

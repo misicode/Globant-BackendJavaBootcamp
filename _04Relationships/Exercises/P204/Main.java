@@ -1,8 +1,8 @@
-package org.amincia._04Relationships.Exercises.P204;
+package com.misicode._04Relationships.Exercises.P204;
 
-import org.amincia._04Relationships.Exercises.P204.services.SimulatorService;
-import org.amincia._04Relationships.Exercises.P204.entities.Student;
-import org.amincia._04Relationships.Exercises.P204.entities.Vote;
+import com.misicode._04Relationships.Exercises.P204.services.SimulatorService;
+import com.misicode._04Relationships.Exercises.P204.entities.Student;
+import com.misicode._04Relationships.Exercises.P204.entities.Vote;
 
 import java.util.ArrayList;
 

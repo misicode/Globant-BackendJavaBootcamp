@@ -1,7 +1,7 @@
-package org.amincia._04Relationships.Exercises.P102.services;
+package com.misicode._04Relationships.Exercises.P102.services;
 
-import org.amincia._04Relationships.Exercises.P102.entities.Player;
-import org.amincia._04Relationships.Exercises.P102.entities.WaterRevolver;
+import com.misicode._04Relationships.Exercises.P102.entities.Player;
+import com.misicode._04Relationships.Exercises.P102.entities.WaterRevolver;
 
 public class PlayerService {
     private static final WaterRevolverService waterRevolverService = new WaterRevolverService();

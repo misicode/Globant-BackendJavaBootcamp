@@ -1,6 +1,6 @@
-package org.amincia._01POO.Exercises.P109.services;
+package com.misicode._01POO.Exercises.P109.services;
 
-import org.amincia._01POO.Exercises.P109.entities.Mathematics;
+import com.misicode._01POO.Exercises.P109.entities.Mathematics;
 
 public class MathematicsService {
     public Mathematics createMathematics() {

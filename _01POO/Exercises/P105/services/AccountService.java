@@ -1,6 +1,6 @@
-package org.amincia._01POO.Exercises.P105.services;
+package com.misicode._01POO.Exercises.P105.services;
 
-import org.amincia._01POO.Exercises.P105.entities.Account;
+import com.misicode._01POO.Exercises.P105.entities.Account;
 
 import java.util.Scanner;
 

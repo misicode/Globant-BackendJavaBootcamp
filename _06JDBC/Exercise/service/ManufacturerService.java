@@ -1,8 +1,8 @@
-package org.amincia._06JDBC.Exercise.service;
+package com.misicode._06JDBC.Exercise.service;
 
-import org.amincia._06JDBC.Exercise.entity.Manufacturer;
-import org.amincia._06JDBC.Exercise.repository.ManufacturerRepositoryImpl;
-import org.amincia._06JDBC.Exercise.repository.Repository;
+import com.misicode._06JDBC.Exercise.repository.ManufacturerRepositoryImpl;
+import com.misicode._06JDBC.Exercise.repository.Repository;
+import com.misicode._06JDBC.Exercise.entity.Manufacturer;
 
 import java.util.Scanner;
 

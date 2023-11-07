@@ -1,4 +1,4 @@
-package org.amincia._03Collections.Exercises.P104.entities;
+package com.misicode._03Collections.Exercises.P104.entities;
 
 import java.util.Comparator;
 

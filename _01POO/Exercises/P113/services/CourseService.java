@@ -1,8 +1,8 @@
-package org.amincia._01POO.Exercises.P113.services;
+package com.misicode._01POO.Exercises.P113.services;
 
-import org.amincia._01POO.Exercises.P113.entities.Course;
-import org.amincia._01POO.Exercises.P113.entities.Student;
-import org.amincia._01POO.Exercises.P113.entities.Turn;
+import com.misicode._01POO.Exercises.P113.entities.Course;
+import com.misicode._01POO.Exercises.P113.entities.Student;
+import com.misicode._01POO.Exercises.P113.entities.Turn;
 
 import java.util.Scanner;
 

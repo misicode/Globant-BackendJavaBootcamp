@@ -1,7 +1,7 @@
-package org.amincia._01POO.Exercises.P110;
+package com.misicode._01POO.Exercises.P110;
 
-import org.amincia._01POO.Exercises.P110.entities.OrderArrays;
-import org.amincia._01POO.Exercises.P110.services.OrderArraysService;
+import com.misicode._01POO.Exercises.P110.entities.OrderArrays;
+import com.misicode._01POO.Exercises.P110.services.OrderArraysService;
 
 public class Main {
     public static void main(String[] args) {

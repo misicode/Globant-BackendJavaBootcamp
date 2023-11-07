@@ -1,7 +1,7 @@
-package org.amincia._01POO.Exercises.P106;
+package com.misicode._01POO.Exercises.P106;
 
-import org.amincia._01POO.Exercises.P106.entities.CoffeeMaker;
-import org.amincia._01POO.Exercises.P106.services.CoffeeMakerService;
+import com.misicode._01POO.Exercises.P106.entities.CoffeeMaker;
+import com.misicode._01POO.Exercises.P106.services.CoffeeMakerService;
 
 import java.util.Scanner;
 

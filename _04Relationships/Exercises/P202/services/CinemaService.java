@@ -1,8 +1,8 @@
-package org.amincia._04Relationships.Exercises.P202.services;
+package com.misicode._04Relationships.Exercises.P202.services;
 
-import org.amincia._04Relationships.Exercises.P202.entities.Viewer;
-import org.amincia._04Relationships.Exercises.P202.entities.Cinema;
-import org.amincia._04Relationships.Exercises.P202.entities.Movie;
+import com.misicode._04Relationships.Exercises.P202.entities.Viewer;
+import com.misicode._04Relationships.Exercises.P202.entities.Cinema;
+import com.misicode._04Relationships.Exercises.P202.entities.Movie;
 
 public class CinemaService {
     private Viewer[] viewers;

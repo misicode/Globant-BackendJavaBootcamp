@@ -1,7 +1,7 @@
-package org.amincia._01POO.Exercises.P104;
+package com.misicode._01POO.Exercises.P104;
 
-import org.amincia._01POO.Exercises.P104.entities.Rectangle;
-import org.amincia._01POO.Exercises.P104.services.RectangleService;
+import com.misicode._01POO.Exercises.P104.entities.Rectangle;
+import com.misicode._01POO.Exercises.P104.services.RectangleService;
 
 public class Main {
     public static void main(String[] args) {

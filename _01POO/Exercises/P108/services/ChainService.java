@@ -1,6 +1,6 @@
-package org.amincia._01POO.Exercises.P108.services;
+package com.misicode._01POO.Exercises.P108.services;
 
-import org.amincia._01POO.Exercises.P108.entities.Chain;
+import com.misicode._01POO.Exercises.P108.entities.Chain;
 
 import java.util.HashMap;
 import java.util.Scanner;

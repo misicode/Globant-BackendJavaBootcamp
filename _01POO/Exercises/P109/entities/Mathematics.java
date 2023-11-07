@@ -1,4 +1,4 @@
-package org.amincia._01POO.Exercises.P109.entities;
+package com.misicode._01POO.Exercises.P109.entities;
 
 public class Mathematics {
     private double number1;

@@ -1,6 +1,6 @@
-package org.amincia._07JPA.Exercise.service;
+package com.misicode._07JPA.Exercise.service;
 
-import org.amincia._07JPA.Exercise.entity.Editorial;
+import com.misicode._07JPA.Exercise.entity.Editorial;
 
 import java.util.List;
 

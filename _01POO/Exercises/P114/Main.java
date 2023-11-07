@@ -1,7 +1,7 @@
-package org.amincia._01POO.Exercises.P114;
+package com.misicode._01POO.Exercises.P114;
 
-import org.amincia._01POO.Exercises.P114.entities.Mobile;
-import org.amincia._01POO.Exercises.P114.services.MobileService;
+import com.misicode._01POO.Exercises.P114.entities.Mobile;
+import com.misicode._01POO.Exercises.P114.services.MobileService;
 
 public class Main {
     public static void main(String[] args) {

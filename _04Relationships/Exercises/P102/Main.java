@@ -1,7 +1,7 @@
-package org.amincia._04Relationships.Exercises.P102;
+package com.misicode._04Relationships.Exercises.P102;
 
-import org.amincia._04Relationships.Exercises.P102.services.GameService;
-import org.amincia._04Relationships.Exercises.P102.entities.Game;
+import com.misicode._04Relationships.Exercises.P102.entities.Game;
+import com.misicode._04Relationships.Exercises.P102.services.GameService;
 
 public class Main {
     public static void main(String[] args) {

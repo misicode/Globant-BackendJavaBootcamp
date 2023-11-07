@@ -1,6 +1,6 @@
-package org.amincia._01POO.Exercises.P204.services;
+package com.misicode._01POO.Exercises.P204.services;
 
-import org.amincia._01POO.Exercises.P204.entities.Document;
+import com.misicode._01POO.Exercises.P204.entities.Document;
 
 import java.util.Scanner;
 

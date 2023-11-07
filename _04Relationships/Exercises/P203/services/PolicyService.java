@@ -1,7 +1,7 @@
-package org.amincia._04Relationships.Exercises.P203.services;
+package com.misicode._04Relationships.Exercises.P203.services;
 
-import org.amincia._04Relationships.Exercises.P203.entities.Fee;
-import org.amincia._04Relationships.Exercises.P203.entities.Policy;
+import com.misicode._04Relationships.Exercises.P203.entities.Fee;
+import com.misicode._04Relationships.Exercises.P203.entities.Policy;
 
 import java.util.ArrayList;
 import java.util.Calendar;

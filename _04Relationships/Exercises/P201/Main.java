@@ -1,6 +1,6 @@
-package org.amincia._04Relationships.Exercises.P201;
+package com.misicode._04Relationships.Exercises.P201;
 
-import org.amincia._04Relationships.Exercises.P201.services.AdoptService;
+import com.misicode._04Relationships.Exercises.P201.services.AdoptService;
 
 public class Main {
     public static void main(String[] args) {

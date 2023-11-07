@@ -1,9 +1,9 @@
-package org.amincia._05Inheritance.Exercises.P101;
+package com.misicode._05Inheritance.Exercises.P101;
 
-import org.amincia._05Inheritance.Exercises.P101.entities.Animal;
-import org.amincia._05Inheritance.Exercises.P101.entities.Cat;
-import org.amincia._05Inheritance.Exercises.P101.entities.Dog;
-import org.amincia._05Inheritance.Exercises.P101.entities.Horse;
+import com.misicode._05Inheritance.Exercises.P101.entities.Animal;
+import com.misicode._05Inheritance.Exercises.P101.entities.Cat;
+import com.misicode._05Inheritance.Exercises.P101.entities.Dog;
+import com.misicode._05Inheritance.Exercises.P101.entities.Horse;
 
 public class Main {
     public static void main(String[] args) {

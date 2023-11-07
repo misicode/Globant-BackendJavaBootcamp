@@ -1,7 +1,7 @@
-package org.amincia._03Collections.Exercises.P101;
+package com.misicode._03Collections.Exercises.P101;
 
-import org.amincia._03Collections.Exercises.P101.entities.Dog;
-import org.amincia._03Collections.Exercises.P101.services.DogService;
+import com.misicode._03Collections.Exercises.P101.entities.Dog;
+import com.misicode._03Collections.Exercises.P101.services.DogService;
 
 import java.util.ArrayList;
 

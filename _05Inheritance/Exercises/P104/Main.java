@@ -1,7 +1,7 @@
-package org.amincia._05Inheritance.Exercises.P104;
+package com.misicode._05Inheritance.Exercises.P104;
 
-import org.amincia._05Inheritance.Exercises.P104.entities.Circle;
-import org.amincia._05Inheritance.Exercises.P104.entities.Rectangle;
+import com.misicode._05Inheritance.Exercises.P104.entities.Circle;
+import com.misicode._05Inheritance.Exercises.P104.entities.Rectangle;
 
 public class Main {
     public static void main(String[] args) {

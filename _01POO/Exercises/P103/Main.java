@@ -1,7 +1,7 @@
-package org.amincia._01POO.Exercises.P103;
+package com.misicode._01POO.Exercises.P103;
 
-import org.amincia._01POO.Exercises.P103.entities.Operation;
-import org.amincia._01POO.Exercises.P103.services.OperationService;
+import com.misicode._01POO.Exercises.P103.entities.Operation;
+import com.misicode._01POO.Exercises.P103.services.OperationService;
 
 public class Main {
     public static void main(String[] args) {

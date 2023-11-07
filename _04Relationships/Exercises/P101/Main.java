@@ -1,7 +1,7 @@
-package org.amincia._04Relationships.Exercises.P101;
+package com.misicode._04Relationships.Exercises.P101;
 
-import org.amincia._04Relationships.Exercises.P101.entities.Person;
-import org.amincia._04Relationships.Exercises.P101.services.PersonService;
+import com.misicode._04Relationships.Exercises.P101.entities.Person;
+import com.misicode._04Relationships.Exercises.P101.services.PersonService;
 
 public class Main {
     public static void main(String[] args) {

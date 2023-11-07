@@ -1,7 +1,7 @@
-package org.amincia._01POO.Exercises.P108;
+package com.misicode._01POO.Exercises.P108;
 
-import org.amincia._01POO.Exercises.P108.entities.Chain;
-import org.amincia._01POO.Exercises.P108.services.ChainService;
+import com.misicode._01POO.Exercises.P108.entities.Chain;
+import com.misicode._01POO.Exercises.P108.services.ChainService;
 
 import java.util.Scanner;
 

@@ -1,4 +1,4 @@
-package org.amincia._07JPA.Exercise.entity;
+package com.misicode._07JPA.Exercise.entity;
 
 import jakarta.persistence.*;
 

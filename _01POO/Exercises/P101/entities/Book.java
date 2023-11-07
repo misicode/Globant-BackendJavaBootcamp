@@ -1,4 +1,4 @@
-package org.amincia._01POO.Exercises.P101.entities;
+package com.misicode._01POO.Exercises.P101.entities;
 
 public class Book {
     private String isbn;

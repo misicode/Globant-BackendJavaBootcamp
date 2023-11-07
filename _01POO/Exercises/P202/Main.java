@@ -1,7 +1,7 @@
-package org.amincia._01POO.Exercises.P202;
+package com.misicode._01POO.Exercises.P202;
 
-import org.amincia._01POO.Exercises.P202.entities.Point;
-import org.amincia._01POO.Exercises.P202.services.PointService;
+import com.misicode._01POO.Exercises.P202.entities.Point;
+import com.misicode._01POO.Exercises.P202.services.PointService;
 
 public class Main {
     public static void main(String[] args) {

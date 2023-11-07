@@ -1,6 +1,6 @@
-package org.amincia._01POO.Exercises.P205.services;
+package com.misicode._01POO.Exercises.P205.services;
 
-import org.amincia._01POO.Exercises.P205.entities.GuessMonth;
+import com.misicode._01POO.Exercises.P205.entities.GuessMonth;
 
 import java.util.Scanner;
 

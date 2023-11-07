@@ -1,7 +1,7 @@
-package org.amincia._05Inheritance.Exercises.P102.services;
+package com.misicode._05Inheritance.Exercises.P102.services;
 
-import org.amincia._05Inheritance.Exercises.P102.entities.HouseholdAppliance;
-import org.amincia._05Inheritance.Exercises.P102.entities.Television;
+import com.misicode._05Inheritance.Exercises.P102.entities.HouseholdAppliance;
+import com.misicode._05Inheritance.Exercises.P102.entities.Television;
 
 import java.util.Scanner;
 

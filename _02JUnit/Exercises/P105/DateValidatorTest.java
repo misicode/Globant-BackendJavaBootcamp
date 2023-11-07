@@ -1,4 +1,4 @@
-package org.amincia._02JUnit.Exercises.P105;
+package com.misicode._02JUnit.Exercises.P105;
 
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.DisplayName;

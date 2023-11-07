@@ -1,7 +1,7 @@
-package org.amincia._05Inheritance.Exercises.P102.services;
+package com.misicode._05Inheritance.Exercises.P102.services;
 
-import org.amincia._05Inheritance.Exercises.P102.entities.Color;
-import org.amincia._05Inheritance.Exercises.P102.entities.HouseholdAppliance;
+import com.misicode._05Inheritance.Exercises.P102.entities.Color;
+import com.misicode._05Inheritance.Exercises.P102.entities.HouseholdAppliance;
 
 import java.util.Scanner;
 

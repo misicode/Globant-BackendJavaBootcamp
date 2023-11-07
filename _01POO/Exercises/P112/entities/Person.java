@@ -1,4 +1,4 @@
-package org.amincia._01POO.Exercises.P112.entities;
+package com.misicode._01POO.Exercises.P112.entities;
 
 import java.util.Calendar;
 

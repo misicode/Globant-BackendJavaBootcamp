@@ -1,7 +1,7 @@
-package org.amincia._06JDBC.Exercise.repository;
+package com.misicode._06JDBC.Exercise.repository;
 
-import org.amincia._06JDBC.Exercise.entity.Product;
-import org.amincia._06JDBC.Exercise.util.ConnectionDB;
+import com.misicode._06JDBC.Exercise.entity.Product;
+import com.misicode._06JDBC.Exercise.util.ConnectionDB;
 
 import java.sql.*;
 import java.util.ArrayList;

@@ -1,4 +1,4 @@
-package org.amincia._04Relationships.Exercises.P201.entities;
+package com.misicode._04Relationships.Exercises.P201.entities;
 
 public class Dog {
     private String name;

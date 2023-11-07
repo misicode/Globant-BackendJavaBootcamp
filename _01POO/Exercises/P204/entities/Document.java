@@ -1,4 +1,4 @@
-package org.amincia._01POO.Exercises.P204.entities;
+package com.misicode._01POO.Exercises.P204.entities;
 
 public class Document {
     private String dni;

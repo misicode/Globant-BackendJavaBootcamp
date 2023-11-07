@@ -1,6 +1,6 @@
-package org.amincia._01POO.Exercises.P104.services;
+package com.misicode._01POO.Exercises.P104.services;
 
-import org.amincia._01POO.Exercises.P104.entities.Rectangle;
+import com.misicode._01POO.Exercises.P104.entities.Rectangle;
 
 import java.util.Scanner;
 

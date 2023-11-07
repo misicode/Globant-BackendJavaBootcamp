@@ -1,7 +1,7 @@
-package org.amincia._01POO.Exercises.P102;
+package com.misicode._01POO.Exercises.P102;
 
-import org.amincia._01POO.Exercises.P102.entities.Circumference;
-import org.amincia._01POO.Exercises.P102.services.CircumferenceService;
+import com.misicode._01POO.Exercises.P102.entities.Circumference;
+import com.misicode._01POO.Exercises.P102.services.CircumferenceService;
 
 public class Main {
     public static void main(String[] args) {

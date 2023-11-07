@@ -1,7 +1,7 @@
-package org.amincia._07JPA.Exercise.repository;
+package com.misicode._07JPA.Exercise.repository;
 
+import com.misicode._07JPA.Exercise.entity.Book;
 import jakarta.persistence.EntityManager;
-import org.amincia._07JPA.Exercise.entity.Book;
 
 import java.util.List;
 

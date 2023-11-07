@@ -1,7 +1,7 @@
-package org.amincia._01POO.Exercises.P109;
+package com.misicode._01POO.Exercises.P109;
 
-import org.amincia._01POO.Exercises.P109.entities.Mathematics;
-import org.amincia._01POO.Exercises.P109.services.MathematicsService;
+import com.misicode._01POO.Exercises.P109.entities.Mathematics;
+import com.misicode._01POO.Exercises.P109.services.MathematicsService;
 
 public class Main {
     public static void main(String[] args) {

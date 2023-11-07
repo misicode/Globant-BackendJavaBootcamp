@@ -1,12 +1,12 @@
-package org.amincia._07JPA.Exercise;
+package com.misicode._07JPA.Exercise;
 
+import com.misicode._07JPA.Exercise.util.JPAUtil;
 import jakarta.persistence.EntityManager;
-import org.amincia._07JPA.Exercise.entity.Author;
-import org.amincia._07JPA.Exercise.entity.Book;
-import org.amincia._07JPA.Exercise.service.AuthorServiceImpl;
-import org.amincia._07JPA.Exercise.service.BookServiceImpl;
-import org.amincia._07JPA.Exercise.service.EditorialServiceImpl;
-import org.amincia._07JPA.Exercise.util.JPAUtil;
+import com.misicode._07JPA.Exercise.entity.Author;
+import com.misicode._07JPA.Exercise.entity.Book;
+import com.misicode._07JPA.Exercise.service.AuthorServiceImpl;
+import com.misicode._07JPA.Exercise.service.BookServiceImpl;
+import com.misicode._07JPA.Exercise.service.EditorialServiceImpl;
 
 import java.util.List;
 import java.util.Scanner;

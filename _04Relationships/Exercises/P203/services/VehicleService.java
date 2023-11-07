@@ -1,6 +1,6 @@
-package org.amincia._04Relationships.Exercises.P203.services;
+package com.misicode._04Relationships.Exercises.P203.services;
 
-import org.amincia._04Relationships.Exercises.P203.entities.Vehicle;
+import com.misicode._04Relationships.Exercises.P203.entities.Vehicle;
 
 public class VehicleService {
     public Vehicle createVehicle() {

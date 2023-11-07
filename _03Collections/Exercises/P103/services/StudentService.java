@@ -1,6 +1,6 @@
-package org.amincia._03Collections.Exercises.P103.services;
+package com.misicode._03Collections.Exercises.P103.services;
 
-import org.amincia._03Collections.Exercises.P103.entities.Student;
+import com.misicode._03Collections.Exercises.P103.entities.Student;
 
 import java.util.ArrayList;
 import java.util.Scanner;

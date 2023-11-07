@@ -1,4 +1,4 @@
-package org.amincia._01POO.Exercises.P104.entities;
+package com.misicode._01POO.Exercises.P104.entities;
 
 public class Rectangle {
     private int base;

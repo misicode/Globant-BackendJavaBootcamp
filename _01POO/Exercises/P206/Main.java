@@ -1,7 +1,7 @@
-package org.amincia._01POO.Exercises.P206;
+package com.misicode._01POO.Exercises.P206;
 
-import org.amincia._01POO.Exercises.P206.entities.HangmanGame;
-import org.amincia._01POO.Exercises.P206.services.HangmanGameService;
+import com.misicode._01POO.Exercises.P206.entities.HangmanGame;
+import com.misicode._01POO.Exercises.P206.services.HangmanGameService;
 
 public class Main {
     public static void main(String[] args) {

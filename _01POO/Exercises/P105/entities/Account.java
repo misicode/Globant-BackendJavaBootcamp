@@ -1,4 +1,4 @@
-package org.amincia._01POO.Exercises.P105.entities;
+package com.misicode._01POO.Exercises.P105.entities;
 
 public class Account {
     private int accountNumber;

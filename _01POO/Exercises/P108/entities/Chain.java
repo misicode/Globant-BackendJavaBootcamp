@@ -1,4 +1,4 @@
-package org.amincia._01POO.Exercises.P108.entities;
+package com.misicode._01POO.Exercises.P108.entities;
 
 public class Chain {
     private String phrase;

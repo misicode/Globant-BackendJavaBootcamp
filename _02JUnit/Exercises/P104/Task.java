@@ -1,4 +1,4 @@
-package org.amincia._02JUnit.Exercises.P104;
+package com.misicode._02JUnit.Exercises.P104;
 
 public class Task {
     private String description;
