@@ -1,5 +1,4 @@
-<h1 align="center">Bootcamp: Java Backend</h1>
-
+<h1 align="center">🍵 Java Backend</h1>
 
 ## 📚 Acerca del repositorio
 Repositorio con las soluciones a los ejercicios de aprendizaje de las guías adjuntas. Material teórico perteneciente al bootcamp "Back-end con Java" de Globant y Egg Cooperation.
