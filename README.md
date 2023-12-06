@@ -2,7 +2,7 @@
 
 
 ## 📚 Acerca del repositorio
-Repositorio con la guía teórica y las soluciones a los ejercicios de aprendizaje que se encuentran al final de cada una de estas. Material teórico perteneciente al bootcamp "Back-end con Java" de Globant y Egg Cooperation.
+Repositorio con las soluciones a los ejercicios de aprendizaje de las guías adjuntas. Material teórico perteneciente al bootcamp "Back-end con Java" de Globant y Egg Cooperation.
 
 
 ## 📋 Temario
@@ -70,7 +70,7 @@ Dentro del archivo `persistence.xml`, que se ubica en la carpeta `META-INF` de s
 </persistence>
 ```
 
-Y modifiqué el contenido del campo `value=""` de las siguientes propiedades, con los valores de conexión a su base de datos.
+Y modifiqué el contenido del campo `value=""` de las siguientes propiedades, con los valores de conexión a su propia base de datos.
 
 ```xml
 <property name="jakarta.persistence.jdbc.url" value="your_url"/>
@@ -91,5 +91,5 @@ Y modifiqué el contenido del campo `value=""` de las siguientes propiedades, co
 | [![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)](https://hibernate.org/orm/documentation/6.3/)             | ORM para persistir los objetos en la base de datos | 5.6.15.Final
 
 
-## 📝 Créditos
-Este repositorio surgió como parte del bootcamp "Back-end con Java" gracias a la convocatoria de becas "Code your Future", organizado por Globant University. Para obtener más información y estar atento a próximas convocatorias visite el siguiente [enlace](https://more.globant.com/becas-cyf-globant-university).
+## 📝 Agradecimientos
+Este repositorio surgió como parte del bootcamp "Back-end con Java" gracias a la convocatoria de becas "Code your Future", organizado por Globant University. Para obtener más información al respecto y estar atento a próximas convocatorias visite el siguiente [enlace](https://more.globant.com/becas-cyf-globant-university).
