@@ -131,11 +131,11 @@ IntelliJ IDEA
 
 
 <!-- CONTACT -->
-## 👩‍💻 Contacto
+## 🌸 Contacto
 
-Desarrollado por **Alessandra Mincia**
+_Desarrollado por_ **Alessandra Mincia**
 
-[![Website][website-badge]][website-url]
+[![Misicode][misicode-badge]][misicode-url]
 [![GitHub][github-badge]][github-url]
 [![LinkedIn][linkedin-badge]][linkedin-url]
 
@@ -174,10 +174,10 @@ Este repositorio surgió como parte del bootcamp "Back-end con Java" a través d
 [hibernate-url]: https://hibernate.org/orm/documentation/6.3/
 [intellijidea-badge]: https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white
 [intellijidea-url]: https://www.jetbrains.com/idea/download/
-[website-badge]: https://img.shields.io/badge/Website-000000?logo=About.me&logoColor=white&colorB=555
-[website-url]: https://misicode.netlify.app/
-[github-badge]: https://img.shields.io/badge/Github-%23121011.svg?logo=github&logoColor=white&colorB=555
+[misicode-badge]: https://img.shields.io/badge/misicode-C020FF?logo=githubsponsors&logoColor=fff
+[misicode-url]: https://misicode.netlify.app/
+[github-badge]: https://img.shields.io/badge/Github-272727?logo=github&logoColor=fff
 [github-url]: https://github.com/misicode
-[linkedin-badge]: https://img.shields.io/badge/-LinkedIn-black.svg?logo=linkedin&colorB=555
+[linkedin-badge]: https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff
 [linkedin-url]: https://www.linkedin.com/in/misicode
 [code-your-future-scholarship]: https://more.globant.com/becas-cyf-globant-university
